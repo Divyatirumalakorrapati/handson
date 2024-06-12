@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-// Changes from the current branch (master)
-public void masterMethod() {
-    // Method implementation
+public class B {
+	System.out.println("I know math, look:");
+	System.out.println(2+2);
 }
-=======
-// Changes from the other branch (math)
-public void bar() {
-    // Method implementation
-}
->>>>>>> math
